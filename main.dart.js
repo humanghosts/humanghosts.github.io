@@ -75921,7 +75921,7 @@ p.a="GET"
 m=J
 l=B.a4
 s=2
-return A.j(o.FI(0,"https://humanghosts.com/hg_logger_android/updater.json",null,null,p,null,t.z),$async$$0)
+return A.j(o.FI(0,"https://ohohoo.com/hg_logger_android/updater.json",null,null,p,null,t.z),$async$$0)
 case 2:n=m.aS(l.NW(0,b.j(0),null),"url")
 if(n==null)n=u.P
 q.a.RG=n
@@ -76005,7 +76005,7 @@ s===$&&A.b()
 A.i0(s.gI8())},
 $S:0}
 A.a8a.prototype={
-$0(){return A.i0("https://humanghosts.com/hg_logger_web/")},
+$0(){return A.i0("https://ohohoo.com/hg_logger_web/")},
 $S:0}
 A.a88.prototype={
 $0(){return A.i0("https://testflight.apple.com/join/4QcYA4un")},
